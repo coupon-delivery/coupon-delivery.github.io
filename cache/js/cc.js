@@ -1514,7 +1514,7 @@
                   "message": "Diese Webseite benutzt Cookies um das Surferlebnis zu verbessern.",
                   "dismiss": "Verstanden",
                   "link": "mehr Infos",
-                  "href": 'https://gutscheine-365.github.io/datenschutz.html'
+                  "href": '/datenschutz.html'
               }
           })
       });
